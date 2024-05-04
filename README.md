@@ -8,14 +8,13 @@ Hi there! I'm Aryan Sharma, an aspiring AI specialist passionate about diving de
 - 🚀 Aspiring to contribute to cutting-edge AI research and real-world applications
 
 🌟 **In this Repository:**
-- 💻 **Projects:** From simple machine learning models to complex neural networks, you'll find a range of projects showcasing different techniques and approaches in AI.
+- 💻 **Projects:** From my college assignment projects to my personal projects, this profile contains all of those along with some research areas and study material.
 - 📈 **Experimentation:** Experimental code and pilot projects testing out new libraries, frameworks, and AI models.
 
 👥 **Let's Connect:**
 - 💬 Ask me about anything AI-related; I'm happy to discuss and share insights!
 - 📫 Hackerrank: https://www.hackerrank.com/profile/aryanrsharma
 - 🔗 LinkedIn: www.linkedin.com/in/aryansharma26
-- 🐦 Twitter: [Your Twitter URL]
 
 Feel free to fork, star, and contribute! Let’s learn and grow together in the fascinating world of artificial intelligence.
 
