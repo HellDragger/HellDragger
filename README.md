@@ -1,4 +1,4 @@
-### Welcome to HellDragger's AI Exploration Hub! 👋🤖
+# Welcome to HellDragger's AI Exploration Hub! 👋🤖
 
 Hi there! I'm Aryan Sharma, an aspiring AI specialist passionate about diving deep into the intricacies of artificial intelligence, machine learning, and deep learning. This repository serves as a central hub where I share my projects, findings, and ongoing learning adventures in the field of AI.
 
@@ -19,4 +19,5 @@ Hi there! I'm Aryan Sharma, an aspiring AI specialist passionate about diving de
 
 Feel free to fork, star, and contribute! Let’s learn and grow together in the fascinating world of artificial intelligence.
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellDragger)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellDragger&theme=merko&show_icons=true)](https://github.com/HellDragger/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HellDragger)](https://github.com/HellDragger/github-readme-stats)
