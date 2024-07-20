@@ -18,5 +18,5 @@ Hi there! I'm Aryan Sharma, an aspiring AI specialist passionate about diving de
 
 Feel free to fork, star, and contribute! Let’s learn and grow together in the fascinating world of artificial intelligence.
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellDragger&theme=merko&show_icons=true)]
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HellDragger&hide_progress=true)
+[Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellDragger&theme=merko&show_icons=true)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HellDragger&hide_progress=true)
